@@ -1,0 +1,5 @@
+accelerate
+bitsandbytes
+transformers @ git+https://github.com/huggingface/transformers.git
+gradio
+python-dotenv
